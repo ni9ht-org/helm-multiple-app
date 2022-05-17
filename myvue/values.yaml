@@ -1,4 +1,4 @@
-# Default values for myapp.
+# Default values for myvue.
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
 
@@ -41,7 +41,7 @@ service:
   port: 80
 
 ingress:
-  enabled: true
+  enabled: false
   className: ""
   annotations: {}
     # kubernetes.io/ingress.class: nginx
