@@ -1,9 +1,0 @@
-dependencies:
-- name: mysrping
-  repository: file://../myspring
-  version: 0.1.0
-- name: myvue
-  repository: file://../myvue
-  version: 0.1.0
-digest: sha256:9297feb63c4aa0b0f698449af9e40057a24a6ef2e70cc909e7df47288c089d5e
-generated: "2022-05-17T18:17:54.955409+08:00"
